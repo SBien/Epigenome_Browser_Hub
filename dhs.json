@@ -1,0 +1,67 @@
+[
+{
+    type:'matplot',
+    name:'Normal_Crypt_dhs',
+    mode:'show',
+    tracks:[
+
+        {
+        type:"bigwig",
+        url:"ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2058nnn/GSM2058015/suppl/GSM2058015_C31_DNase.bw",
+        name:"normal crypt C31 dhs",
+        colorpositive:"#6633ff",
+        },
+
+        {
+        type:"bigwig",
+        url:"ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2058nnn/GSM2058016/suppl/GSM2058016_C34_DNase.bw",
+        name:"normal crypt C34 dhs",
+        colorpositive:"#ff6633",
+        },
+        
+        {
+        type:"bigwig",
+        url:"ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2058nnn/GSM2058017/suppl/GSM2058017_C36_DNase.bw",
+        name:"normal crypt C34 dhs",
+        colorpositive:"#ff6633",
+        },
+
+    ],
+    
+    type:'matplot',
+    name:'CRC_cell_line_dhs',
+    mode:'show',
+    tracks:[
+
+        {
+        type:"bigwig",
+        url:"ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2058nnn/GSM2058018/suppl/GSM2058018_V389_DNase.bw",
+        name:"V389 CRC cell line dhs",
+        colorpositive:"#6633ff",
+        },
+
+        {
+        type:"bigwig",
+        url:"ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2058nnn/GSM2058019/suppl/GSM2058019_V410_DNase.bw",
+        name:"V410 CRC cell line dhs",
+        colorpositive:"#ff6633",
+        },
+        
+        {
+        type:"bigwig",
+        url:"ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2058nnn/GSM2058020/suppl/GSM2058020_V576_DNase.bw",
+        name:"V576 CRC cell line dhs",
+        colorpositive:"#ff6633",
+        },
+
+    ],  
+    
+},
+]
+
+
+
+
+
+
+
