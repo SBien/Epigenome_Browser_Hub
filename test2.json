@@ -1,0 +1,36 @@
+[
+{
+    type:'matplot',
+    name:'Normal_Crypt_dhs',
+    mode:'show',
+    tracks:[
+
+        {
+        type:"bigwig",
+        url:"ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2058nnn/GSM2058015/suppl/GSM2058015_C31_DNase.bw",
+        name:"normal crypt C31 dhs",
+        colorpositive:"#6633ff",
+        },
+
+        {
+        type:"bigwig",
+        url:"ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2058nnn/GSM2058016/suppl/GSM2058016_C34_DNase.bw",
+        name:"normal crypt C34 dhs",
+        colorpositive:"#ff6633",
+        },
+
+    ],
+},
+{
+type:"geneset",
+name:"this is a gene set",
+list:["ACAP7","ANKRD46","CPEB2","CRTC1","DOCK3","FHOD3"]
+},
+]
+
+
+
+
+
+
+
